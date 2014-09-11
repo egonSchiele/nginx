@@ -19,5 +19,5 @@ I modified the built-in google perftools module to make my own module instead. I
 
 ## Useful links
 
-[ngx_devel_kit - an Nginx module that adds additional generic tools that module developers can use in their own modules](https://github.com/simpl/ngx_devel_kit)
-[ngx_lua - embed lua inside nginx](https://github.com/openresty/lua-nginx-module)
+- [ngx_devel_kit - an Nginx module that adds additional generic tools that module developers can use in their own modules](https://github.com/simpl/ngx_devel_kit)
+- [ngx_lua - embed lua inside nginx](https://github.com/openresty/lua-nginx-module)
