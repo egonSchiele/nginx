@@ -682,7 +682,6 @@ ngx_get_options(int argc, char *const *argv)
         while (*p) {
 
             switch (*p++) {
-
             case '?':
             case 'h':
                 ngx_show_version = 1;
